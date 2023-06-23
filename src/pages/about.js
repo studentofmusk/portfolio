@@ -55,6 +55,7 @@ const about = () => {
                                 </span>
                                 <h2 className='text-xl font-medium capitalize text-dark/75'>projects completed</h2>
                             </div>
+                            
                             <div className='flex flex-col items-end justify-center'>
                                 <span className='inline-block text-7xl font-bold' >
                                     <AnimatedNumber value={4}/>+
